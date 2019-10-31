@@ -25,3 +25,5 @@ explore: payment_agreements {}
 explore: returned_checks_history {}
 
 explore: transactions {}
+
+include: "*.dashboard.lookml"
